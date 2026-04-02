@@ -1,12 +1,12 @@
 # 💫 About Me:
 ### System Engineer | Linux Infrastructure & ERP Operations
-[cite_start]Experienced System Engineer with over 5 years of experience managing Linux-based production environments and enterprise IT infrastructure[cite: 36]. [cite_start]Currently focusing on cloud deployments, Odoo ERP management, and infrastructure security[cite: 37, 38].
+[cite_start]Experienced System Engineer with over 5 years of experience managing Linux-based production environments and enterprise IT infrastructure[cite: 36]. [cite_start]Currently focusing on cloud deployments, Odoo ERP management, and infrastructure security[cite: 41, 13].
 
 * **🌍 Website:** [mahaz.uk](https://mahaz.uk)
-* [cite_start]**🏢 Current Role:** System Engineer at **Designtech Engineering Consultants** (Riyadh, Saudi Arabia), managing Odoo environments on AWS and DigitalOcean[cite: 40, 42, 43].
-* [cite_start]**⏳ Previous Role:** IT Support Specialist at **Surprise Industrial Corporation** (Bangladesh), providing infrastructure and server support[cite: 60, 61, 62].
+* [cite_start]**🏢 Current Role:** System Engineer at **Designtech Engineering Consultants** (Riyadh, Saudi Arabia), managing Odoo environments on AWS and DigitalOcean[cite: 40, 43].
+* [cite_start]**⏳ Previous Role:** IT Support Specialist at **Surprise Industrial Corporation** (Bangladesh), providing infrastructure and server support[cite: 59, 60, 62].
 * **🚀 Project Focus:** **ITdock** — My centralized repository for infrastructure documentation, automation scripts, and technical resources.
-* [cite_start]**🛠 Specialized Skills:** Odoo ERP Implementation (CRM, Sales, Inventory, Accounting, HR) [cite: 13, 20][cite_start], Ubuntu Server hardening [cite: 10, 57][cite_start], and PostgreSQL administration[cite: 12].
+* [cite_start]**🛠 Specialized Skills:** Odoo ERP Implementation (CRM, Sales, Inventory, Accounting, HR), Ubuntu Server hardening, and PostgreSQL administration[cite: 13, 10, 12].
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahaz_abdullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaz-abdullah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah_mahaz) 
