@@ -1,24 +1,22 @@
 # 💫 About Me:
-**System Engineer | Linux Infrastructure & ERP Operations**
+### System Engineer | Linux Infrastructure & ERP Operations
+[cite_start]Experienced System Engineer with over 5 years of experience managing Linux-based production environments and enterprise IT infrastructure[cite: 36]. [cite_start]Currently focusing on cloud deployments, Odoo ERP management, and infrastructure security[cite: 37, 38].
 
-[cite_start]Experienced System Engineer with over 5 years of experience managing Linux-based production environments and enterprise IT infrastructure[cite: 36]. [cite_start]Currently focusing on cloud deployments, Odoo ERP management, and infrastructure security[cite: 36, 37].
+* [cite_start]**🏢 Current Role:** System Engineer at **Designtech Engineering Consultants** (Riyadh, Saudi Arabia), managing Odoo environments on AWS and DigitalOcean[cite: 40, 43].
+* [cite_start]**⏳ Previous Role:** IT Support Specialist at **Surprise Industrial Corporation** (Bangladesh), providing infrastructure and server support[cite: 59, 60, 62].
+* **🚀 Project Focus:** **ITdock** — My centralized repository for infrastructure documentation, automation scripts, and technical resources.
+* [cite_start]**🛠 Specialized Skills:** Odoo ERP Implementation (CRM, Sales, Inventory, Accounting, HR), Ubuntu Server hardening, and PostgreSQL administration[cite: 13, 37, 44].
 
-### 🚀 Professional Experience
-* [cite_start]**Designtech Engineering Consultants (Riyadh, Saudi Arabia):** Currently serving as a System Engineer (2022–Present), managing Odoo ERP environments on AWS and DigitalOcean[cite: 40, 42, 43].
-* [cite_start]**Surprise Industrial Corporation (Bangladesh):** Previously worked as an IT Support Specialist (2019–2021) providing Level 1 & 2 infrastructure support[cite: 59, 60, 61, 62].
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahaz_abdullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaz-abdullah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah_mahaz) 
 
-### 🛠 Technical Focus
-* [cite_start]**Odoo ERP:** Specialist in implementation, administration, and module management (CRM, Sales, Inventory, Accounting, HR)[cite: 13, 20].
-* **ITdock:** My dedicated repository for centralized infrastructure documentation, automation scripts, and technical resources.
-* [cite_start]**Cloud & DevOps:** Provisioning Ubuntu-based cloud servers, managing Docker containers, and implementing automated S3 backups[cite: 44, 45, 50].
-* [cite_start]**Security:** Server hardening aligned with ARAMCO compliance standards and Active Directory lifecycle management[cite: 57].
+# 💻 Tech Stack:
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### 🎓 Education & Certifications
-* [cite_start]**B.Sc. in Computer Science & Engineering** - Royal University of Dhaka[cite: 28, 30].
-* [cite_start]**RHCE** (Red Hat Certified Engineer)[cite: 21].
-* [cite_start]**Odoo Academy Certified**[cite: 20].
-* [cite_start]**Cyber Security Analyst** - Cisco Networking Academy[cite: 26].
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahaz121&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mahaz121&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaz121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 Connect with me:
-* [cite_start]**Location:** Riyadh, Saudi Arabia[cite: 4].
-* [cite_start]**Email:** mahaz_abdullah@hotmail.com[cite: 3].
+---
+[![](https://visitcount.itsvg.in/api?id=mahaz121&icon=0&color=0)](https://visitcount.itsvg.in)
