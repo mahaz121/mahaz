@@ -1,23 +1,65 @@
-# 💫 About Me:
-### System Engineer | Linux Infrastructure & ERP Operations
-[cite_start]Experienced System Engineer with over 5 years of experience managing Linux-based production environments and enterprise IT infrastructure[cite: 36]. [cite_start]Currently focusing on cloud deployments, Odoo ERP management, and infrastructure security[cite: 41, 13].
+# 🚀 Hello, World! I'm Abdullah Mahaz
 
-* **🌍 Website:** [mahaz.uk](https://mahaz.uk)
-* [cite_start]**🏢 Current Role:** System Engineer at **Designtech Engineering Consultants** (Riyadh, Saudi Arabia), managing Odoo environments on AWS and DigitalOcean[cite: 40, 43].
-* [cite_start]**⏳ Previous Role:** IT Support Specialist at **Surprise Industrial Corporation** (Bangladesh), providing infrastructure and server support[cite: 59, 60, 62].
-* **🚀 Project Focus:** **ITdock** — My centralized repository for infrastructure documentation, automation scripts, and technical resources.
-* [cite_start]**🛠 Specialized Skills:** Odoo ERP Implementation (CRM, Sales, Inventory, Accounting, HR), Ubuntu Server hardening, and PostgreSQL administration[cite: 13, 10, 12].
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahaz_abdullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaz-abdullah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah_mahaz) 
-
-# 💻 Tech Stack:
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahaz121&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahaz121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaz121&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### **System Engineer | Linux Infrastructure Architect | ERP Operations**
+*Bridging the gap between robust Linux infrastructure and seamless ERP operations.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahaz121&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+Experienced **System Engineer** with over 5 years of mastery in managing production environments and enterprise IT. I specialize in building resilient systems that don't just work—they scale.
+
+* 🌐 **Personal Website:** [mahaz.uk](https://mahaz.uk)
+* ✍️ **Author of ITdock:** A centralized repository for infrastructure documentation, automation scripts, and technical resources.
+* 🏗 **Current Focus:** Cloud deployments, Odoo ERP optimization, and hardened infrastructure security.
+* 📰 **Side Quests:** Building **Bengal Herald**, an automated news portal focused on tech and global analysis.
+* ⚡ **Philosophy:** Automate the boring stuff; harden the critical stuff.
+
+---
+
+### 🛠 Technical Ecosystem
+
+| **Core Infrastructure** | **DevOps & Cloud** | **Development** |
+| :--- | :--- | :--- |
+| 🐧 **OS:** Ubuntu, RHEL, CentOS | ☁️ **Cloud:** AWS, DigitalOcean, Azure | 🐍 **Backend:** Python, FastAPI, PHP |
+| 🛡 **Security:** ARAMCO Hardening | 🐳 **Container:** Docker, K8s Fundamentals | 📜 **Scripting:** Bash, PowerShell |
+| ⚙️ **ERP:** Odoo Implementation | 🔄 **CI/CD:** GitLab CI | 🌐 **Web:** Next.js, React, JS |
+| 🗄 **DB:** PostgreSQL, MongoDB | 🛰 **Network:** NGINX, VPN, VLAN | 🎨 **Frontend:** HTML5, CSS |
+
+---
+
+### 🚀 Featured Projects
+* **[ITdock](https://github.com/mahaz121)**: My primary open-source contribution—streamlining infrastructure management through documented automation.
+* **Odoo Operations**: Architecting automated backup strategies and large-scale ERP environments.
+* **Infrastructure Hardening**: Designing server security protocols aligned with global enterprise standards.
+
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahaz121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mahaz GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahaz121&theme=tokyonight&hide_border=true" alt="Mahaz Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaz121&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect & Collaborate
+<div align="left">
+  <a href="https://mahaz.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mahaz.uk-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/mahaz-abdullah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/abdullah_mahaz" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mahaz121&icon=5&color=4" alt="Visitor Count" />
+</p>
